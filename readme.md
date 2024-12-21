@@ -1,7 +1,7 @@
 #  :bike: Web App - Weather Indicator Tool
 
 ## :scroll: Overview 
-Sample description
+Real-time weather tool with API integration
 
 ![screenshot](pics/screengif.gif)
 
